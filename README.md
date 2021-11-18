@@ -1,1 +1,3 @@
-"# Simple-Twitter-Clone" 
+# Simple Twitter clone
+
+Just for practicising Phoenix and Elixir
